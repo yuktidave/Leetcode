@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yuktidave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuktidave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Counting
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0189-rotate-array](https://github.com/yuktidave/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuktidave/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yuktidave/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuktidave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/yuktidave/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
@@ -31,6 +33,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuktidave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/yuktidave/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Math
 |  |
