@@ -28,6 +28,7 @@
 | [1524-string-matching-in-an-array](https://github.com/yuktidave/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yuktidave/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuktidave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/yuktidave/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/yuktidave/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yuktidave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuktidave/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/yuktidave/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuktidave/Leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/yuktidave/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yuktidave/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/yuktidave/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
