@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuktidave/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/yuktidave/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/yuktidave/Leetcode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuktidave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/yuktidave/Leetcode/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuktidave/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/yuktidave/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/yuktidave/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuktidave/Leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuktidave/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
