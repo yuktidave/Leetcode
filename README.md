@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuktidave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/yuktidave/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yuktidave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -25,6 +26,7 @@
 | [0031-next-permutation](https://github.com/yuktidave/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/yuktidave/Leetcode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuktidave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yuktidave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/yuktidave/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuktidave/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/yuktidave/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yuktidave/Leetcode/tree/master/0048-rotate-image) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuktidave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
