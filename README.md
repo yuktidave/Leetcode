@@ -7,11 +7,13 @@
 | [0128-longest-consecutive-sequence](https://github.com/yuktidave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/yuktidave/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/yuktidave/Leetcode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yuktidave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/yuktidave/Leetcode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/yuktidave/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yuktidave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yuktidave/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -20,6 +22,7 @@
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yuktidave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yuktidave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
