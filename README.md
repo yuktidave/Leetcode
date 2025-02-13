@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuktidave/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yuktidave/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/yuktidave/Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/yuktidave/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuktidave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yuktidave/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/yuktidave/Leetcode/tree/master/0189-rotate-array) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yuktidave/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
