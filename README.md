@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/yuktidave/Leetcode/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/yuktidave/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/yuktidave/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yuktidave/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yuktidave/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/yuktidave/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
