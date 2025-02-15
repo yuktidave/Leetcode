@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/yuktidave/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yuktidave/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yuktidave/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yuktidave/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0952-word-subsets](https://github.com/yuktidave/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/yuktidave/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yuktidave/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuktidave/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yuktidave/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## String Matching
 |  |
 | ------- |
@@ -102,11 +104,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/yuktidave/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1502-construct-k-palindrome-strings](https://github.com/yuktidave/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yuktidave/Leetcode/tree/master/0056-merge-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yuktidave/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Binary Search
 |  |
 | ------- |
